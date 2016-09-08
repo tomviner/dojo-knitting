@@ -17,6 +17,7 @@ if os.path.exists(".save"):
 else:
     row = 0
 
+print("u to go up, x to save progress and exit")
 while row < len(lines):
     line = lines[row]
     print "Line ", row + 1
@@ -25,10 +26,13 @@ while row < len(lines):
 
     command = raw_input("> ")
     if command == "u":
-        row -= 1
-    elif command == "s":
+        if row == 0:
+            print("You're at the start!")
+        else:
+            row -= 1
+    elif command == "x":
         with open(".save", "w+") as save:
             save.write(str(row))
-
+        break
     else:
         row += 1
