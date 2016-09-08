@@ -63,7 +63,7 @@ def main():
 
                 # To pattern language
                 print row
-                row = [to_symbol(i) for i in row]
+                row = [to_symbol(i) + ' ' for i in row]
 
 
                 parts[partname].append(row)
