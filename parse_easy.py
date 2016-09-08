@@ -1,3 +1,4 @@
+import os
 
 pattern = open('example.txt')
 
@@ -10,7 +11,11 @@ map = {
 }
 
 lines = [line.rstrip("\n") for line in pattern]
-row = 0
+if os.path.exists(".save"):
+    with open(".save") as save:
+        row = int(save.read())
+else:
+    row = 0
 
 while row < len(lines):
     line = lines[row]
@@ -21,5 +26,9 @@ while row < len(lines):
     command = raw_input("> ")
     if command == "u":
         row -= 1
+    elif command == "s":
+        with open(".save", "w+") as save:
+            save.write(str(row))
+
     else:
         row += 1
