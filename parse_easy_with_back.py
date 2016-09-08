@@ -1,4 +1,5 @@
 import os
+from parse_with_regex import parse_line
 
 pattern = open('example.txt')
 
@@ -21,8 +22,7 @@ print("u to go up, x to save progress and exit")
 while row < len(lines):
     line = lines[row]
     print "Line ", row + 1
-    for col, char in enumerate(line, 1):
-        print "\tdo a ", map.get(char, repr(char))
+    parse_line(line)
 
     command = raw_input("> ")
     if command == "u":
