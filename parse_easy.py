@@ -18,7 +18,11 @@ for row, line in enumerate(pattern, 1):
             count = 1
         else:
             if last != char:
-                print '\tdo a', map.get(last, repr(last)), count
+                print '\tdo a', map.get(last, repr(last)),
+                if count > 1:
+                    print 'x', count
+                else:
+                    print
                 count = 1
             else:
                 count += 1
