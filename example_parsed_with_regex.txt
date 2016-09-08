@@ -1,0 +1,115 @@
+Line 1
+	do skip
+	do slip
+	do yarn over
+	do skip
+	do yarn over
+	do knit 2 together
+	do skip x 2
+	do yarn over
+	do knit 2 together
+	do slip
+	do yarn over
+	do skip x 4
+Line 2
+	do skip x 16
+Line 3
+	do skip x 2
+	do slip
+	do yarn over
+	do skip x 3
+	do yarn over
+	do knit 2 together
+	do skip
+	do yarn over
+	do '^'
+	do yarn over
+	do skip x 3
+Line 4
+	do skip x 16
+Line 5
+	do skip x 3
+	do slip
+	do yarn over
+	do skip
+	do yarn over
+	do knit 2 together
+	do skip
+	do yarn over
+	do knit 2 together
+	do skip
+	do slip
+	do yarn over
+	do skip x 2
+Line 6
+	do skip x 16
+Line 7
+	do skip x 4
+	do slip
+	do yarn over
+	do skip x 2
+	do slip
+	do yarn over
+	do skip x 3
+	do yarn over
+	do knit 2 together
+	do skip
+Line 8
+	do skip x 16
+Line 9
+	do skip x 3
+	do yarn over
+	do knit 2 together
+	do slip
+	do yarn over
+	do skip x 2
+	do slip
+	do yarn over
+	do skip
+	do yarn over
+	do knit 2 together
+	do skip x 2
+Line 10
+	do skip x 16
+Line 11
+	do skip x 2
+	do yarn over
+	do knit 2 together
+	do yarn over
+	do skip
+	do slip
+	do yarn over
+	do skip x 3
+	do yarn over
+	do knit 2 together
+	do skip x 3
+Line 12
+	do skip x 16
+Line 13
+	do skip
+	do yarn over
+	do knit 2 together
+	do skip
+	do slip
+	do yarn over
+	do skip
+	do slip
+	do yarn over
+	do skip
+	do yarn over
+	do knit 2 together
+	do skip x 4
+Line 14
+	do skip x 16
+Line 15
+	do slip
+	do yarn over
+	do skip x 3
+	do yarn over
+	do knit 2 together
+	do skip x 2
+	do yarn over
+	do knit 2 together
+	do skip x 5
+Line 16
+	do skip x 16
