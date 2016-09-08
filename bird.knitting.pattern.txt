@@ -1,0 +1,67 @@
+HEAD
+Using 2 needles and A, cast on 2 sts.
+1st row (RS) K1, m1, k1. 3 sts.
+2nd row P.
+3rd row K1, [m1, k1] twice. 5 sts. Break off A, change to B.
+4th and WS rows P.
+5th row K1, [m1, k1] 4 times. 9 sts.
+7th row K1, m1, k7, m1, k1. 11 sts.
+9th row K9, turn, p7, turn, k6, turn, p5, turn, k to end.
+11th row K1, k2tog, k5, ssk, k1. 9 sts.
+13th row K1, k2tog, s2kpo, ssk, k1. 5 sts.
+14th row P. Break off B.
+15th row RS facing and starting at cast-on edge, using first double-pointed needle and A, pick up and k3 sts from A row ends and 9 sts from B row ends, with 2nd double-pointed needle work (k2tog, k1, ssk) across 5 sts, with 3rd double-pointed needle pick up and k9 sts from B row ends and 3 sts from A row ends. 27 sts. Now turn and work in rows with 4 double-pointed needles:
+1st row (WS) P. Break off A.
+2nd row Using C, k. Break off C.
+3rd row Slip first 2 sts of row on to spare yarn. Using separate lengths of yarn, join A and p next 9 sts, using C p next 5 sts, using A p next 9 sts, slip last 2 sts on to spare yarn. Turn and continue with 23 sts on needles. Cross yarns at each color change on next 6 rows.
+4th row K9A, (k1, m1, k3, m1, k1)B, k9A. 25 sts.
+5th row P9A, 7C, 9A.
+6th row K9A, 7C, 9A.
+7th row P8A, 9C, 8A.
+8th row K7A, 11C, 7A.
+9th row P6A, 13C, 6A. Break off A and C, continue with D.
+
+BACK
+10th row K8, m1, [k3, m1] 3 times, k8. 29 sts.
+11th and WS rows P.
+12th row K.
+14th row [K2tog] twice, k7, [m1, k7] twice, [ssk] twice. 27 sts.
+16th row [K2tog] twice, k6, m1, k7, m1, k6, [ssk] twice. 25 sts.
+18th row [K2tog] twice, k5, m1, k7, m1, k5, [ssk] twice. 23 sts. Continue to decrease and increase in this way on RS rows, working one st less beside each double decrease, until 26th row has been completed and 15 sts remain.
+28th row [K2tog] twice, m1, k7, m1, [ssk] twice. 13 sts.
+30th row [K2tog] twice, k5, [ssk] twice. 9 sts.
+32nd row K2tog, k5, ssk. 7 sts. Break off D and continue with B.
+
+Tail
+** P1 row.
+1st rib row (RS) K2, [p1, k1] twice, k1.
+2nd rib row K1, [p1, k1] 3 times. Repeat these 2 rows 3 times more, then work 1st rib row again. Bind off knitwise.
+
+Front
+RS facing, slip 4 remaining sts of head on to needle and rejoin C to work bib.
+1st row [K2tog] twice. 2 sts.
+2nd and WS rows P.
+3rd row K1, m1, k1. 3 sts.
+5th row K1, [m1, k1] twice. 5 sts.
+7th row K1, m1, k3, m1, k1. 7 sts. Break off C and continue with E. Beginning with a p row, work 3 rows st-st.
+11th row K1, [m1, k1] 6 times. 13 sts.
+13th row K1, m1, k to last st, m1, k1. 15 sts.
+15th row As 13th row. 17 sts.
+17th row K to last 2 sts, turn, p to last 2 sts, turn, k to last 3 sts, turn, p to last 3 sts, turn, k to end.
+19th row As 13th row. 19 sts.
+21st row As 17th row.
+23rd row As 13th row. 21 sts.
+25th row As 17th row.
+27th row Ssk, k3, ssk, k7, k2tog, k3, k2tog. 17 sts.
+29th row Ssk, k2, ssk, k5, k2tog, k2, k2tog. 13 sts.
+31st row Ssk, k1, ssk, s2kpo, k2tog, k1, k2tog. 7 sts. Break off E and continue with B.
+
+TAIL
+As tail of back from **.
+WING TIPS
+RS facing and using D, starting at first decrease along edge of left back, pick up and k19 sts. Change to B. P 1 row.
+2nd row (RS) K2, [p1, k1] 7 times, turn, rib 13, turn, rib 11, turn, rib 9, turn, rib to end. Bind off knitwise. Work 2nd wing tip to match.
+
+BEAK
+Using C, cast on 5 sts.
+Single row (RS) K1, s2kpo, k1. Draw yarn through remaining 3 sts and pull tight.
