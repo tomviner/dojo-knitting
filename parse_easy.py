@@ -5,7 +5,7 @@ map = {
     '/': 'knit 2 together',
     '\\': 'slip',
     'o': 'yarn over',
-    '^': 'purl',
+    '-': 'purl',
     '.': 'skip',
 }
 
